@@ -6,7 +6,7 @@
 - 📬 Contato: joaorubensouza@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoruben97)
-[![site da empresa](https://omniaprod.pt/)
+[🌐 Site da empresa](https://omniaprod.pt/)
 
 ## Tecnologias que eu estudo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
