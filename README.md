@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Rubens Souza — Estudante de Análise e Desenvolvimento de Sistemas
+# Olá! Eu sou o João Rubens Souza — Análise e Desenvolvimento de Sistemas
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - 📚 Estudando 8 tecnologias (veja abaixo)
