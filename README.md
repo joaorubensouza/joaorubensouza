@@ -1,13 +1,12 @@
-# Olá! Eu sou o João Rubens Souza — Produtor Audiovisual e Desenvolvedor
+# Olá! Eu sou o João Rubens Souza — Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🎓 [Analise e Desenvolvimento De Sistema]
-- 📚 Atualmente estudando CyberSecurity
-- 🤝 Aberto a colaborações e novos projetos
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+- 📚 Estudando 8 tecnologias (veja abaixo)
+- 🤝 Aberto a oportunidades e colaborações
 - 📬 Contato: joaorubensouza@gmail.com
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joaorubensouza.github.io/omnia-portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoruben97)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joaorubensouza.github.io/omnia-portfolio/)
 
 ## Tecnologias que eu estudo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -15,6 +14,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Activity
 <picture>
