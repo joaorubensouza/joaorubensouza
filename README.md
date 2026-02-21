@@ -25,3 +25,10 @@
 ## Destaques
 - Projetos de portfólio com foco em aplicações web, APIs e automação.
 - Evolução contínua em backend, banco de dados e integração de serviços.
+
+## Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaorubensouza/joaorubensouza/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaorubensouza/joaorubensouza/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaorubensouza/joaorubensouza/output/github-snake.svg" />
+</picture>
