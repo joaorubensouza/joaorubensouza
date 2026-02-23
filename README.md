@@ -8,7 +8,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoruben97)
 [![Site da empresa](https://img.shields.io/badge/Site-Omnia%20Produções-1f6feb?style=for-the-badge)](https://omniaprod.pt/)
 
-## Tecnologias que eu estudo
+## Tecnologias trabalhadas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
