@@ -1,6 +1,6 @@
 ﻿# Olá! Eu sou o João Rubens Souza — Análise e Desenvolvimento de Sistemas
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas  
 - 📚 Estudando tecnologias de desenvolvimento web e backend  
 - 🤝 Aberto a oportunidades e colaborações  
 - 📬 Contato: **joaorubensouza@gmail.com**
